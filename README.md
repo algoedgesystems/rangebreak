@@ -1,6 +1,6 @@
 # AlgoEdge RangeBreak
 
-Six session-breakout strategies for MetaTrader 5, running from a single chart.
+Seven session-breakout strategies for MetaTrader 5, running from a single chart.
 
 This repository hosts the **release downloads** for RangeBreak — the compiled
 expert advisor and the published backtest reports. The strategy source is not
@@ -11,7 +11,7 @@ public.
 | | |
 |---|---|
 | **Expert advisor** | [Latest release](https://github.com/algoedgesystems/rangebreak/releases/latest) — `RangeBreak.ex5`, MT5 only |
-| **Backtest reports** | [backtest-2019-2026](https://github.com/algoedgesystems/rangebreak/releases/tag/backtest-2019-2026) — unedited MetaTrader 5 exports |
+| **Backtest reports** | [backtest-2019-2026](https://github.com/algoedgesystems/rangebreak/releases/tag/backtest-2019-2026) — unedited MetaTrader 5 exports, all four risk levels |
 
 ## Results
 
